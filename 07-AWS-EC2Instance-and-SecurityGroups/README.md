@@ -14,6 +14,8 @@
 - [local-exec provisioner](https://www.terraform.io/docs/language/resources/provisioners/local-exec.html)
 - [depends_on Meta-Argument](https://www.terraform.io/docs/language/meta-arguments/depends_on.html)
 
+![image](https://user-images.githubusercontent.com/72263813/129014485-e0d45590-fe9d-4e9a-bde9-4b3247ac796b.png)
+
 ### What are we going implement? 
 - Create VPC with 3-Tier Architecture (Web, App and DB) - Leverage code from previous section
 - Create AWS Security Group Terraform Module and define HTTP port 80, 22 inbound rule for entire internet access `0.0.0.0/0`
