@@ -11,6 +11,8 @@
 - Go back to **Billing** and complete the payment for the domain to be approved
 - Copy your `terraform-key.pem` file to `terraform-manifests/private-key` folder
 
+![image](https://user-images.githubusercontent.com/72263813/129257310-a55a8a82-e48c-4f3d-ac26-c2d1d9dba6db.png)
+
 ## Step-01: Introduction
 - We are going to implement Context Path based Routing in AWS Application Load Balancer using Terraform.
 - To achieve that we are going to implement many series of steps. 
